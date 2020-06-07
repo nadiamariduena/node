@@ -34,7 +34,7 @@ let reader = fs.createReadStream("newText.txt").pipe(newWriter);
 //
 //
 //
-// -----------------------------------------------------------descrip
+// -----------------------------------------------------------description
 /*
 // _1
 const fs = require("fs");
